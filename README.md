@@ -78,7 +78,6 @@ Uzun süredir kurumsal projeler, yüksek trafik alan uygulamalar ve entegrasyon 
 
 ## 📈 Şu anda Ne Üzerinde Çalışıyorum?
 
-- Yeni TypeScript öğrenme süreci  
 - .NET 8 projelerini microservice mimarisine taşıma  
 - Daha modern, performanslı UI yapıları geliştirme  
 
@@ -88,8 +87,7 @@ Uzun süredir kurumsal projeler, yüksek trafik alan uygulamalar ve entegrasyon 
 
 <div align="center">
 
-📧 **Email:** ahmettahsincam@gmail.com  
-🌐 Web sitesi eklemek istersen ekleyebilirim  
+📧 **Email:** ahmet.tahsin.cam@gmail.com  
 
 </div>
 
