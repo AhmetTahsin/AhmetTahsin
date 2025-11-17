@@ -92,7 +92,3 @@ Uzun süredir kurumsal projeler, yüksek trafik alan uygulamalar ve entegrasyon 
 </div>
 
 ---
-
-<div align="center">
-  <sub>✨ Bu profil README’si HTML + Markdown ile özel olarak tasarlanmıştır.</sub>
-</div>
