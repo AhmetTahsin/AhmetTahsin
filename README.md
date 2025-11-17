@@ -1,92 +1,100 @@
-👋 Merhaba! Ben Ahmet Tahsin Çam
-⚡ Full-Stack .NET Developer • API & Microservices • MSSQL • MongoDB • Redis • MVC • TailwindCSS
+<!-- Banner -->
+<div align="center">
+  <img src="https://github.com/AhmetTahsin/AhmetTahsin/assets/banner-example.png" 
+       alt="Ahmet Tahsin Çam - .NET Developer" 
+       style="width:100%; max-width:900px; border-radius:12px;" />
+</div>
 
-Ben Ahmet Tahsin Çam. Profesyonel olarak .NET Core tabanlı web uygulamaları, mikro servis mimarileri, API entegrasyonları ve yüksek trafik alan kurumsal projeler geliştiriyorum.
-Çeşitli teknoloji firmalarına ve orta ölçekli işletmelere uzun süredir yazılım hizmeti sağlıyorum.
+<br />
 
-🚀 Uzmanlık Alanlarım
-🟣 Back-End (Ağırlıklı)
+<h1 align="center">👋 Merhaba, Ben Ahmet Tahsin Çam</h1>
 
-ASP.NET Core (5/6/7/8)
+<p align="center">
+  <strong>Full-Stack .NET Developer • API & Microservices • MSSQL • MongoDB • Redis • MVC • TailwindCSS</strong>
+</p>
 
-RESTful API geliştirme
+<br />
 
-JWT Authentication & Authorization
+<!-- Hızlı Bilgiler -->
+<div align="center">
 
-Microservice mimarisi
+<a href="mailto:ahmettahsincam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Entity Framework Core
+<img src="https://img.shields.io/badge/.NET-Expert-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-Dapper
+<img src="https://img.shields.io/badge/Backend-Developer-green?style=for-the-badge" />
 
-MSSQL • MongoDB • Redis
+<img src="https://img.shields.io/badge/Microservices-Architect-orange?style=for-the-badge" />
 
-Üçüncü parti API entegrasyonları
-(IRIS API, ödeme sistemleri, lokasyon servisleri, CRM sistemleri vb.)
+</div>
 
-🔵 Front-End
+<br />
 
-ASP.NET MVC (Razor)
+---
 
-HTML / CSS / JS
+## 🧑‍💻 <span style="color:#6A0DAD;">Hakkımda</span>
 
-TailwindCSS
+Ben Ahmet Tahsin Çam. Profesyonel olarak  
+**ASP.NET Core, mikro servis mimarisi, API entegrasyonları, veritabanı sistemleri ve modern web arayüzleri** üzerine çalışıyorum.  
 
-Responsive web design
+Uzun süredir kurumsal projeler, yüksek trafik alan uygulamalar ve entegrasyon yoğun sistemler geliştiriyorum.
 
-Temiz ve performanslı UI geliştirme
+<br />
 
-🟠 DevOps & Tools
+---
 
-Docker
+## 🚀 <span style="color:#6A0DAD;">Uzmanlık Teknolojilerim</span>
 
-Postman (API test)
+<div align="center">
 
-Git / GitHub
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,mongodb,redis,mysql,postman,html,css,js,tailwind" />
 
-Plesk & Windows Server yönetimi
+</div>
 
-Cloudflare DNS / Güvenlik
+---
 
-🧰 Kullandığım Teknolojiler
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,mongodb,redis,postgres,mysql,postman,cloudflare,html,css,js,tailwind" /> </p>
-🔥 Öne Çıkan Proje Çalışmalarım
-📌 Digiturk / E-Ticaret & Başvuru Yönetimi
+## 📌 Öne Çıkan Projelerim
 
-.NET 6 tabanlı, çoklu mikroservis mimarisinde e-ticaret sistemi
+### 🔹 Digiturk / Mikroservis Tabanlı E-Ticaret & Başvuru Sistemi
+- .NET 6/7/8 tabanlı büyük ölçekli alt yapı  
+- IRIS API entegrasyonu: Token, adres, hizmet uygunluğu  
+- Redis cache ile yüksek performans  
+- Admin paneli & filtreleme sistemleri  
+- TailwindCSS ile modern UI
 
-Kimlik doğrulama servisi (IdentityService)
+### 🔹 3D Ürün Satış Platformu
+- Kategori–Ürün ilişkisel yapısı  
+- EF Core ile gelişmiş modeller  
+- İyzico ödeme sistemi entegrasyonu  
 
-IRIS API üzerinden adres, altyapı, token yönetimi
+### 🔹 SMTP/Mail Automation
+- Görev tabanlı email gönderimi  
+- Gmail + SMTP provider planlaması  
+- Background job mimarisi
 
-Redis cache ile yüksek performans
+---
 
-Admin paneli, filtreleme ve gerçek zamanlı veri yönetimi
+## 📈 Şu anda Ne Üzerinde Çalışıyorum?
 
-Modern TailwindCSS arayüzler
+- Yeni TypeScript öğrenme süreci  
+- .NET 8 projelerini microservice mimarisine taşıma  
+- Daha modern, performanslı UI yapıları geliştirme  
 
-📌 3D Ürün Satış Platformu
+---
 
-EF Core ile Category–Product ilişkileri
+## 📞 Bana Ulaş
 
-Ürün detay yönetimi
+<div align="center">
 
-İyzico ödeme sistemi entegrasyonu
+📧 **Email:** ahmettahsincam@gmail.com  
+🌐 Web sitesi eklemek istersen ekleyebilirim  
 
-📌 Mail Automation / SMTP Service
+</div>
 
-Görev bazlı arka plan email job’ları
+---
 
-Gmail & SMTP provider entegrasyonları
-
-📈 Şu anda ne yapıyorum?
-
-Kurumsal projeler için API proxy katmanları geliştiriyorum
-
-TailwindCSS ile modern, esnek UI bileşenleri hazırlıyorum
-
-Mevcut .NET 8 projelerimi mikro servis mimarisine taşıyorum
-
-💬 Bana Ulaş
-
-📧 ahmet.tahsin.cam@gmail.com
+<div align="center">
+  <sub>✨ Bu profil README’si HTML + Markdown ile özel olarak tasarlanmıştır.</sub>
+</div>
