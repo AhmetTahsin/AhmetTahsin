@@ -1,11 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://github.com/AhmetTahsin/AhmetTahsin/assets/banner-example.png" 
-       alt="Ahmet Tahsin Çam - .NET Developer" 
-       style="width:100%; max-width:900px; border-radius:12px;" />
-</div>
-
-<br />
 
 <h1 align="center">👋 Merhaba, Ben Ahmet Tahsin Çam</h1>
 
