@@ -87,8 +87,6 @@ TailwindCSS ile modern, esnek UI bileşenleri hazırlıyorum
 
 Mevcut .NET 8 projelerimi mikro servis mimarisine taşıyorum
 
-Yeni TypeScript yolculuğuna başlıyorum
-
 💬 Bana Ulaş
 
-📧 ahmettahsincam@gmail.com
+📧 ahmet.tahsin.cam@gmail.com
